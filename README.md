@@ -26,5 +26,6 @@ To run the code locally run following commands in terminal
 ```
 
 You will get a url after this in console go to that url to see it running.
-## Live Website
+## Link of the Website:
 
+https://code-quest.onrender.com
